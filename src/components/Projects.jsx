@@ -27,7 +27,7 @@ const projects = [
     image: '/assets/portfolio_web.png',
     tech: ['React', 'TailwindCSS','javascript' ,'vercel'],
     github: 'https://github.com/karansundariya/CVNirmaan_AI',
-    demo: 'https://cvnirmaan-ai.vercel.app',
+    demo: 'https://rishav-devfolio.vercel.app/',
   },
   //   {
   //   title: 'Random Password Generator',
