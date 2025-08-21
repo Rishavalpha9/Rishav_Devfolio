@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Rishav_Devfolio
 
 
@@ -107,10 +108,10 @@ A passionate Web Developer and Software Engineer currently studying in the Final
 
 - Email: karansundariya@gmail.com
 - Phone: +91-8058702298
-- GitHub: [github.com/karansundariya](https://github.com/karansundariya)
-- LinkedIn: [linkedin.com/in/karan-sundariya](https://linkedin.com/in/karan-sundariya)
-- LeetCode: [leetcode.com/karansundariya](https://leetcode.com/karansundariya)
-- GeeksforGeeks: [geeksforgeeks.org/user/karansundariya](https://geeksforgeeks.org/user/karansundariya)
+- GitHub: 
+- LinkedIn: 
+- LeetCode: 
+- GeeksforGeeks:
 
 ## 🔄 Future Updates
 
@@ -122,7 +123,7 @@ A passionate Web Developer and Software Engineer currently studying in the Final
 
 ## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/karansundariya/karan_devfolio/issues).
+Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/).
 
 ## 📜 License
 
@@ -136,4 +137,7 @@ This project is [MIT](https://choosealicense.com/licenses/mit/) licensed.
 
 ---
 
-Made with ❤️ by [Karan Sundariya](https://github.com/karansundariya)
+Made with ❤️ by [Rishav kumar](https://github.com/)
+=======
+# Rishav_Devfolio
+>>>>>>> e4220613b48e4b22547a200e1b590a2642d0441c
