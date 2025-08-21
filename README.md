@@ -106,8 +106,8 @@ A passionate Web Developer and Software Engineer currently studying in the Final
 
 ## 📱 Contact Information
 
-- Email: karansundariya@gmail.com
-- Phone: +91-8058702298
+- Email: rishavkumarrajece@gmail.com
+- Phone: +91-7488726313
 - GitHub: 
 - LinkedIn: 
 - LeetCode: 
