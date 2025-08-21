@@ -84,7 +84,7 @@ npm run build
 ## 📄 Content Details
 
 ### About Me
-A passionate Web Developer and Software Engineer currently studying in the Final year of Computer Science and Engineering (2022-26), at Indian Institute of Information Technology (IIIT) Bhagalpur. Experienced in building efficient and user-centric web solutions with a strong foundation in Data Structures, Algorithms, and core CS fundamentals.
+A passionate Web Developer and Software Engineer currently studying in the Final year of Electronics and Communication Engineering (2022-26), at Indian Institute of Information Technology (IIIT) Bhagalpur. Experienced in building efficient and user-centric web solutions with a strong foundation in Data Structures, Algorithms, and core CS fundamentals.
 
 ### Skills
 - Programming Languages: C/C++, JavaScript
@@ -94,15 +94,13 @@ A passionate Web Developer and Software Engineer currently studying in the Final
 - Tools & Technologies: Git, GitHub, System Design, SDLC, QT
 
 ### Featured Projects
-1. CVNirman_AI: AI-powered resume and cover letter builder (React, TailwindCSS, Firebase, Gemini API)
-2. Saahitya - The Reading App: Modern book app with Google Books API (HTML, CSS, JavaScript)
-3. Karan DSA Profile: Personal webpage to showcase coding profiles (HTML, TailwindCSS, JavaScript)
+
 
 ### Experiences & Achievements
-- Software Development Engineer Intern at Neoned71 Tech Solutions
-- Competitive coding achievements (LeetCode Knight - Top 5%, GFG 3★ Coder)
-- Hackathon and coding competition recognitions including Flipkart GRiD 6.0, HP Power Lab Challenge, Tata Imagination Challenge, and more
-- Leadership roles in E-Cell and EBSB Board at IIIT Bhagalpur
+
+- Competitive coding achievements 
+- Hackathon and coding competition recognitions including Flipkart GRiD 7.0, HP Power Lab Challenge, Tata Imagination Challenge, and more
+
 
 ## 📱 Contact Information
 
